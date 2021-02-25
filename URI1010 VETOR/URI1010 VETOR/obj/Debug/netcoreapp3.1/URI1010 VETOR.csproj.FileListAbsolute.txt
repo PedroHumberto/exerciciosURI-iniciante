@@ -1,0 +1,12 @@
+B:\C#\URI Jungle\URI1010 VETOR\URI1010 VETOR\bin\Debug\netcoreapp3.1\URI1010 VETOR.exe
+B:\C#\URI Jungle\URI1010 VETOR\URI1010 VETOR\bin\Debug\netcoreapp3.1\URI1010 VETOR.deps.json
+B:\C#\URI Jungle\URI1010 VETOR\URI1010 VETOR\bin\Debug\netcoreapp3.1\URI1010 VETOR.runtimeconfig.json
+B:\C#\URI Jungle\URI1010 VETOR\URI1010 VETOR\bin\Debug\netcoreapp3.1\URI1010 VETOR.runtimeconfig.dev.json
+B:\C#\URI Jungle\URI1010 VETOR\URI1010 VETOR\bin\Debug\netcoreapp3.1\URI1010 VETOR.dll
+B:\C#\URI Jungle\URI1010 VETOR\URI1010 VETOR\bin\Debug\netcoreapp3.1\URI1010 VETOR.pdb
+B:\C#\URI Jungle\URI1010 VETOR\URI1010 VETOR\obj\Debug\netcoreapp3.1\URI1010 VETOR.AssemblyInfoInputs.cache
+B:\C#\URI Jungle\URI1010 VETOR\URI1010 VETOR\obj\Debug\netcoreapp3.1\URI1010 VETOR.AssemblyInfo.cs
+B:\C#\URI Jungle\URI1010 VETOR\URI1010 VETOR\obj\Debug\netcoreapp3.1\URI1010 VETOR.csproj.CoreCompileInputs.cache
+B:\C#\URI Jungle\URI1010 VETOR\URI1010 VETOR\obj\Debug\netcoreapp3.1\URI1010 VETOR.dll
+B:\C#\URI Jungle\URI1010 VETOR\URI1010 VETOR\obj\Debug\netcoreapp3.1\URI1010 VETOR.pdb
+B:\C#\URI Jungle\URI1010 VETOR\URI1010 VETOR\obj\Debug\netcoreapp3.1\URI1010 VETOR.genruntimeconfig.cache
