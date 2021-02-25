@@ -1,0 +1,13 @@
+B:\C#\URI Jungle\URI1045\URI1045\bin\Debug\netcoreapp3.1\URI1045.exe
+B:\C#\URI Jungle\URI1045\URI1045\bin\Debug\netcoreapp3.1\URI1045.deps.json
+B:\C#\URI Jungle\URI1045\URI1045\bin\Debug\netcoreapp3.1\URI1045.runtimeconfig.json
+B:\C#\URI Jungle\URI1045\URI1045\bin\Debug\netcoreapp3.1\URI1045.runtimeconfig.dev.json
+B:\C#\URI Jungle\URI1045\URI1045\bin\Debug\netcoreapp3.1\URI1045.dll
+B:\C#\URI Jungle\URI1045\URI1045\bin\Debug\netcoreapp3.1\URI1045.pdb
+B:\C#\URI Jungle\URI1045\URI1045\obj\Debug\netcoreapp3.1\URI1045.csprojAssemblyReference.cache
+B:\C#\URI Jungle\URI1045\URI1045\obj\Debug\netcoreapp3.1\URI1045.AssemblyInfoInputs.cache
+B:\C#\URI Jungle\URI1045\URI1045\obj\Debug\netcoreapp3.1\URI1045.AssemblyInfo.cs
+B:\C#\URI Jungle\URI1045\URI1045\obj\Debug\netcoreapp3.1\URI1045.csproj.CoreCompileInputs.cache
+B:\C#\URI Jungle\URI1045\URI1045\obj\Debug\netcoreapp3.1\URI1045.dll
+B:\C#\URI Jungle\URI1045\URI1045\obj\Debug\netcoreapp3.1\URI1045.pdb
+B:\C#\URI Jungle\URI1045\URI1045\obj\Debug\netcoreapp3.1\URI1045.genruntimeconfig.cache
